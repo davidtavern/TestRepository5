@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "7c6f21f8-1afd-4ab1-964a-482cd726d4b3",
+            "Value": {
+                "id": "fc3f9912-56ee-41f0-92f4-b4887295135c",
+                "resourcePath": "sprites\\sprAGAIN\\sprAGAIN.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7cb24924-b16e-4ad5-96d8-5cb907d9e521",
             "Value": {
                 "id": "81fa5309-b5b4-4f42-b166-593f6c0e23c5",
